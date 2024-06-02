@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/33424234242342_autogen",
+	"CMAKE_BINARY_DIR" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/d/33424234242342",
+	"CMAKE_SOURCE_DIR" : "G:/d/33424234242342",
+	"INCLUDE_DIR" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/33424234242342_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/\u255f\u0440\u0443\u0401\u0454\u0447\u044a\u0448/Top_players_parse_-_1.csv"
+	],
+	"LOCK_FILE" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/33424234242342_autogen.dir/AutoRcc_top_players_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "top_players" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_top_players.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "G:/d/33424234242342/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/33424234242342_autogen.dir/AutoRcc_top_players_EWIEGA46WW_Used.txt",
+	"SOURCE" : "G:/d/33424234242342/top_players.qrc",
+	"VERBOSITY" : 0
+}
